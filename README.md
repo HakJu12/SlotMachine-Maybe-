@@ -1,2 +1,2 @@
-# SlotMachine-Maybe-
+# SlotMachine-Maybe
 Just Practicing
